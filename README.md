@@ -1,2 +1,2 @@
-# beat-that-part1
+# RocketAcademyBasics
 Created with CodeSandbox
